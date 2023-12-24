@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins' , sans-serif;
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 45px;
+    border: 3px;
+    color: blue;
+    margin: 1%;
+}
+h2{
+    font-size: 25px;
+    border: 4px;
+    color:lightcoral;
+}
+p{
+    font-size: 25px;
+}
+.ab{
+    font-size: 25px;
+    background-origin: padding-box;
+    border-radius: 8%;
+    border: 5px solid lightblue;
+    height: 50px;
+
+}
+.bc{
+    font-size: 25px;
+    border-radius: 8%;
+    border: 5px solid lightblue;
+    margin: 2%;
+}
+.cd{
+    font-size: 22px;
+    border-radius: 8%;
+    border: 5px solid lightblue;
+    margin: 1%;
+
+}
+.de{
+    font-size: 22px;
+    border-radius: 8%;
+    border: 5px solid lightblue;
+    margin: 1%;
+
+}
+.ef{
+    font-size: 25px;
+    border-radius: 10%;
+    border: 5px solid lightblue;
+   
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.fg{
+    font-size: 22px;
+    border-radius: 8%;
+    float: inline-start;
+    border: 5px solid lightblue;
+    margin: 1%;
+}
+.gh{
+    font-size: 22px;
+    border-radius: 8%;
+    border: 5px solid lightblue;
+    margin: 1%;
+}
+button{
+    font-size: 35px;
+    color:blue;
+
+    
+}
+button:hover{
+    color: #ff7200;
+}
+button:focus{
+    outline: none;
+    color: aqua;
+    
+}
+
